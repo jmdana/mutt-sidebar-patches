@@ -10,4 +10,5 @@ set sidebar_shortpath=yes
 
 And the IMAP folder separator is '/' instead of '.'.
 
-
+---
+Copyright 2015, Jose M. Dana
